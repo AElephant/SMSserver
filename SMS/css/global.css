@@ -1,0 +1,12 @@
+.layui-body{
+	margin: 15px;
+    line-height: 22px;
+}
+.layui-elem-field .layui-form-item{
+	margin-top: 15px;
+}
+.layui-form-label{
+	width: auto;
+}
+.layui-form-item .layui-input-inline{
+}
